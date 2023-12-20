@@ -1,4 +1,10 @@
 # Leetcode
+<style>
+  summary {
+    font-size: 1.2em; 
+  }
+</style>
+
 
 One of my favorite pastimes includes learning and solving new Leetcode problems!
 
@@ -11,9 +17,9 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 <img src="images/cartoon.png" alt="cartoon character" title="cartoon character" width="210"/>
 
 </h2>
-
 <details>
-<summary>Arrays & Hashing</summary>
+<summary>  Arrays & Hashing </summary>
+
 
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
