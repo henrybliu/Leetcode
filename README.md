@@ -1,4 +1,9 @@
 # Leetcode
+<!-- <style>
+  summary {
+    font-size: 1.2em; 
+  }
+</style> -->
 
 
 One of my favorite pastimes includes learning and solving new Leetcode problems!
