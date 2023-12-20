@@ -1,10 +1,9 @@
 # Leetcode
-<!-- <style>
+<style>
   summary {
     font-size: 1.2em; 
   }
-</style> -->
-
+</style>
 
 One of my favorite pastimes includes learning and solving new Leetcode problems!
 
@@ -33,7 +32,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  128 | Medium | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [python3](solutions/128.py) |
 |  392 | Easy | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [python3](solutions/392.py) |
 |  58 | Easy | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [python3](solutions/58.py) |
-|  1299 | Easy | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [python3](solutions/1299.py) |
+|  1299 | Easy | [Replace Elements With Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [python3](solutions/1299.py) |
 |  14 | Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python3](solutions/14.py) |
 |  27 | Easy | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [python3](solutions/27.py) |
 |  929 | Easy | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [python3](solutions/929.py) |
@@ -47,11 +46,26 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 |  881 | Medium | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [python3](solutions/881.py) |
+|  42 | Hard | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python3](solutions/42.py) |
+|  11 | Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [python3](solutions/11.py)|
+|  15 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [python3](solutions/15.py) |
+|  167 | Medium | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [python3](solutions/167.py) |
+|  125 | Easy | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python3](solutions/125.py) |
+</details>
+
+</details>
+
+<details>
+<summary> Sliding Window </summary>
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
 
 
 </details>
 
-</details>
+
+
 <details>
 <summary> Uncategorized / Problem of the Day </summary>
 
