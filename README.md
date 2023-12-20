@@ -89,14 +89,32 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Binary Search </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 704 | Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/704.py) |
+| 74 | Medium | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/74.py) |
+| 875 | Medium | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/875.py) |
+| 153 | Medium | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/153.py) |
+| 33 | Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/33.py) |
+| 981 | Medium | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/981.py) |
+| 540 | Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/540.py) |
+| 162 | Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/find-peak-element/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/162.py) |
+| 4 | Hard | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/4.py) |
+
+
 </details>
 
 ---
 
 <details>
 <summary> Linked List </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 206 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/206.py) |
+| 21 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/21.py) |
+
 </details>
 
 ---
