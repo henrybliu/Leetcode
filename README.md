@@ -32,6 +32,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  929 | Easy | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/929.py) |
 |  554 | Medium | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/554.py)|
 
+
 </details>
 
 ---
@@ -71,6 +72,17 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 20 | Easy | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/20.py) |
+| 155 | Medium | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/155.py) |
+| 150 | Medium | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/150.py) |
+| 22| Medium | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/22.py) |
+|  735 | Medium | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/735.py)|
+|  739 | Medium | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/739.py)|
+|  853 | Medium | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/853.py)|
+|  394 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/394.py)|
+
+</details>
+
+
 </details>
 
 ---
