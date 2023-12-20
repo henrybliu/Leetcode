@@ -1,4 +1,4 @@
-# Henry's Leetcode
+# Leetcode
 <style>
   summary {
     font-size: 1.2em; 
