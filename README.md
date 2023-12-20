@@ -10,9 +10,9 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 <img src="images/cartoon.png" alt="cartoon character" title="cartoon character" width="210"/>
 
 </h2>
+
 <details>
 <summary>  Arrays & Hashing </summary>
-
 
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
@@ -34,6 +34,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 </details>
 
+---
+
 <details>
 <summary>Two Pointers</summary>
 
@@ -47,18 +49,126 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  125 | Easy | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python3](solutions/125.py) |
 </details>
 
-</details>
+---
 
 <details>
 <summary> Sliding Window </summary>
 
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
-
+|  121 | Easy | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [python3](solutions/121.py) |
+|  3 | Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python3](solutions/3.py) |
+|  424 | Medium | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [python3](solutions/424.py) |
+|  567 | Medium | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [python3](solutions/567.py) |
 
 </details>
 
+---
 
+<details>
+<summary> Stack </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Binary Search </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Linked List </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Trees </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Tries </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Heap / Priority Queue </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Backtracking </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Graphs </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Advanced Graphs </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> 1-D Dynamic Programming </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> 2-D Dynamic Programming </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Greedy </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Intervals </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Math & Geometry </summary>
+To be added
+</details>
+
+---
+
+<details>
+<summary> Bit Manipulation </summary>
+To be added
+</details>
+
+---
 
 <details>
 <summary> Uncategorized / Problem of the Day </summary>
