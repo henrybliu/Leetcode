@@ -115,6 +115,13 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 206 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/206.py) |
 | 21 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/21.py) |
 | 143 | Medium | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/143.py) |
+| 19 | Medium | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/19.py) |
+| 138 | Medium | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/138.py) |
+| 2| Medium | [Add Numbers](https://leetcode.com/problems/add-two-numbers/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2.py) |
+|  141 | Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/141.py)|
+|  287 | Medium | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/287.py)|
+|  146 | Medium | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/146.py)|
+|  23 | Medium | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/23.py)|
 
 </details>
 
@@ -211,6 +218,16 @@ To be added
 | :---: | :---: | :----: | :---: |
 | 2706 | Easy | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2706.py) |
 | 1637 | Medium | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=daily-question&envId=2023-12-21) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1637.py) |
+| 661 | Easy | [Image Smoother](https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/661.py) |
+| 1913 | Easy | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1913.py) |
+| 2353 | Medium | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2353.py) |
+| 1436 | Easy | [Destination City](https://leetcode.com/problems/destination-city/?envType=daily-question&envId=2023-12-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1436.py) |
+| 2482 | Medium | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2482.py) |
+| 1582 | Easy | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1582.py) |
+| 1464 | Easy | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1464.py) |
+| 1287 | Easy | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1287.py) |
+| 1716 | Easy | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/?envType=daily-question&envId=2023-12-06) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1716.py) |
+| 1266 | Easy | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2023-12-03) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1266.py) |
 
 </details>
 
