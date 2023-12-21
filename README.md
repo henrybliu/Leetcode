@@ -1,5 +1,5 @@
 # Henry's Leetcode
-One of my favorite pastimes includes learning and solving new Leetcode problems!
+One of my favorite pastimes includes learning and solving new Leetcode problems! Here are some of the problems that I have solved!
 
 So, whether you are preparing for a technical interview or just looking to sharpen your programming skills, feel free to use this resource to find new problems or different approaches!
 
@@ -114,6 +114,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | :---: | :---: | :----: | :---: |
 | 206 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/206.py) |
 | 21 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/21.py) |
+| 143 | Medium | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/143.py) |
 
 </details>
 
@@ -209,6 +210,7 @@ To be added
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 2706 | Easy | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2706.py) |
+| 1637 | Medium | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=daily-question&envId=2023-12-21) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1637.py) |
 
 </details>
 
