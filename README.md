@@ -246,6 +246,8 @@ To be added
 | 1287 | Easy | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1287.py) |
 | 1716 | Easy | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/?envType=daily-question&envId=2023-12-06) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1716.py) |
 | 1266 | Easy | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2023-12-03) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1266.py) |
+| 1422 | Easy | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2023-12-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1422.py) |
+
 
 </details>
 
