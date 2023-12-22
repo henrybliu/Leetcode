@@ -167,7 +167,10 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Heap / Priority Queue </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 355 | Medium | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/355.py) |
 </details>
 
 ---
