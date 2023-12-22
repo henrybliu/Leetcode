@@ -154,7 +154,13 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Tries </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 208 | Medium | [Implement a Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/208.py) |
+| 211 | Medium | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/211.py) |
+| 212 | Hard | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/212.py) |
+
 </details>
 
 ---
