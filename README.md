@@ -129,8 +129,26 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Trees </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 102 | Medium | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/102.py) |
+| 199 | Medium | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-right-side-view/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/199.py) |
+| 1448 | Medium | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1448.py) |
+| 98 | Medium | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/98.py) |
+| 230 | Medium | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/230.py) |
+| 105 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/105.py) |
+| 124 | Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/124.py) |
+| 297 | Hard | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/297.py) |
+| 226 | Easy | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/226.py) |
+| 104 | Easy | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/104.py) |
+| 543 | Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/543.py) |
+| 110 | Easy | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/110.py) |
+| 100 | Easy | [Same Tree](https://leetcode.com/problems/same-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/100.py) |
+| 572 | Easy | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/572.py) |
+| 235 | Medium | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/235.py) |
 </details>
+
 
 ---
 
