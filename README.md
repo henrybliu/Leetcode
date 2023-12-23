@@ -171,6 +171,14 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 355 | Medium | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/355.py) |
+| 703 | Easy | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/703.py) |
+| 1046 | Easy | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1046.py) |
+| 973 | Medium | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/973.py) |
+| 215 | Medium | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/215.py) |
+| 295 | Medium | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/295.py) |
+| 621 | Medium | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/621.py) |
+
+
 </details>
 
 ---
