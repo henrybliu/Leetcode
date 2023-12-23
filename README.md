@@ -185,7 +185,11 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Backtracking </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 51 | Hard | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/51.py) |
+
 </details>
 
 ---
