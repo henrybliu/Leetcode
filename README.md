@@ -189,6 +189,15 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 51 | Hard | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/51.py) |
+| 78 | Medium | [Subsets](https://leetcode.com/problems/subsets/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/78.py) |
+| 39 | Medium | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/39.py) |
+| 46 | Medium | [Permutations](https://leetcode.com/problems/permutations/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/46.py) |
+| 90 | Medium | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/90.py) |
+| 17 | Medium | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/17.py) |
+| 40 | Medium | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/40.py) |
+| 17 | Medium | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/17.py) |
+| 131 | Medium | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/131.py) |
+| 79 | Medium | [Word Search](https://leetcode.com/problems/word-search//) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/79.py) |
 
 </details>
 

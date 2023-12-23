@@ -5,8 +5,8 @@ class Solution:
     to place a queen on each row. If we are able to reach the bottom row, then
     we have successfuly placed all n queens.    
 
-    Time: O(n^2)
-    Space: O(n)
+    Time: O(2^n)
+    Space: O(n^2) - in the worst case we store the entire board
 
     where n is the number of queens to place on an nxn board
     '''
@@ -27,10 +27,12 @@ class Solution:
                 res.append(["".join(row) for row in board])
                 return
 
+            # we go one row at a time
             for c in range(n):
                 leftDiag = r+c
                 rightDiag = r-c
 
+                # try to add to a column in the current row
                 if (leftDiag not in lr and rightDiag not in rl and r not in rows and c not in cols):
                     cols.add(c)
                     rows.add(r)
