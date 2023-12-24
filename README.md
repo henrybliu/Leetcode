@@ -217,7 +217,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 130 | Medium | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/130.py) |
 | 133 | Medium | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/133.py) |
 | 684 | Medium | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/684.py) |
-| 127 | Hard | [Redundant Connection](https://leetcode.com/problems/word-ladder/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/127.py) |
+| 127 | Hard | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/127.py) |
 
 </details>
 
