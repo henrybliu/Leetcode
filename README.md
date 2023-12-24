@@ -205,7 +205,20 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Graphs </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 210 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/210.py) |
+| 207 | Medium | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/207.py) |
+| 200 | Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/200.py) |
+| 695 | Medium | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/695.py) |
+| 417 | Medium | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/417.py) |
+| 994 | Medium | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/994.py) |
+| 130 | Medium | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/130.py) |
+| 133 | Medium | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/133.py) |
+| 684 | Medium | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/684.py) |
+| 127 | Hard | [Redundant Connection](https://leetcode.com/problems/word-ladder/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/127.py) |
+
 </details>
 
 ---
