@@ -278,7 +278,7 @@ To be added
 | 1266 | Easy | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2023-12-03) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1266.py) |
 | 1422 | Easy | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2023-12-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1422.py) |
 | 1496 | Easy | [Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1496.py) |
-
+| 1758 | Easy | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1758.py) |
 </details>
 
 
