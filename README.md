@@ -218,6 +218,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 133 | Medium | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/133.py) |
 | 684 | Medium | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/684.py) |
 | 127 | Hard | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/127.py) |
+| 953 | Easy | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/953.py) |
+| 934 | Medium | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/934.py) |
 
 </details>
 
@@ -253,7 +255,12 @@ To be added
 
 <details>
 <summary> Intervals </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 57 | Medium | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/57.py) |
+| 56 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/56.py) |
+| 435 | Medium | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/435.py) |
 </details>
 
 ---
