@@ -234,7 +234,10 @@ To be added
 
 <details>
 <summary> 1-D Dynamic Programming </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 1578 | Medium | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1578.py) |
 </details>
 
 ---
@@ -299,6 +302,7 @@ To be added
 | 1422 | Easy | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2023-12-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1422.py) |
 | 1496 | Easy | [Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1496.py) |
 | 1758 | Easy | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1758.py) |
+
 </details>
 
 
