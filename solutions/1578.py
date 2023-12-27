@@ -33,11 +33,9 @@ class Solution:
     '''
     def minCost(self, colors: str, neededTime: List[int]) -> int:
         dp = [0 for _ in range(len(colors))]
-        
 
         for i in range(1,len(colors)):
             if colors[i]==colors[i-1]:
-                # dp[i] = min(neededTime[i], neededTime[i-1])
                 if neededTime[i-1] < neededTime[i]:
                     dp[i] = neededTime[i-1]
                 else:
