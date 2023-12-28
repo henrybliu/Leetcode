@@ -238,7 +238,10 @@ To be added
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 1578 | Medium | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1578.py) |
+| 1155  | Medium | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1155.py) |
+| 91  | Medium | [Decode Ways](https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/91.py) |
 </details>
+
 
 ---
 
