@@ -305,6 +305,7 @@ To be added
 | 1422 | Easy | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2023-12-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1422.py) |
 | 1496 | Easy | [Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1496.py) |
 | 1758 | Easy | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1758.py) |
+| 1897 | Easy | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1897.py) |
 
 </details>
 
