@@ -307,6 +307,7 @@ To be added
 | 1758 | Easy | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1758.py) |
 | 1897 | Easy | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1897.py) |
 | 1624 | Easy | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1624.py) |
+| 455 | Easy | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/455.py) |
 
 </details>
 
