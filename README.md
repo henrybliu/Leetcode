@@ -277,7 +277,10 @@ To be added
 
 <details>
 <summary> Math & Geometry </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 149 | Hard | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/149.py) |
 </details>
 
 ---
