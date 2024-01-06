@@ -79,6 +79,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  739 | Medium | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/739.py)|
 |  853 | Medium | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/853.py)|
 |  394 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/394.py)|
+|  456 | Medium | [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/456.py)|
 
 </details>
 
