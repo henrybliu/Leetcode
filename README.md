@@ -255,7 +255,9 @@ To be added
 
 <details>
 <summary> Greedy </summary>
-To be added
+
+| :---: | :---: | :----: | :---: |
+| 134 | Medium | [Gas Station](https://leetcode.com/problems/gas-station/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/134.py) |
 </details>
 
 ---
