@@ -48,6 +48,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  15 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/15.py) |
 |  167 | Medium | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/167.py)|
 |  125 | Easy | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/125.py) |
+|  777 | Medium | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/777.py) |
 </details>
 
 ---
