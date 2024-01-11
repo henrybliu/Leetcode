@@ -150,6 +150,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 572 | Easy | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/572.py) |
 | 235 | Medium | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/235.py) |
 | 1026 | Medium | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1026.py) |
+| 872 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/872.py) |
+| 938 | Easy | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/938.py) |
 </details>
 
 
