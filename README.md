@@ -152,6 +152,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 1026 | Medium | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1026.py) |
 | 872 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/872.py) |
 | 938 | Easy | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/938.py) |
+| 2385 | Medium | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2385.py) |
 </details>
 
 
@@ -165,6 +166,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 208 | Medium | [Implement a Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/208.py) |
 | 211 | Medium | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/211.py) |
 | 212 | Hard | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/212.py) |
+
 
 </details>
 
@@ -246,6 +248,7 @@ To be added
 | 1578 | Medium | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1578.py) |
 | 1155  | Medium | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1155.py) |
 | 91  | Medium | [Decode Ways](https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/91.py) |
+| 1567  | Medium | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1567.py) |
 </details>
 
 
@@ -321,6 +324,7 @@ To be added
 | 455 | Easy | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/455.py) |
 | 2610 | Medium | [Assign Cookies](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2610.py) |
 | 2870 | Medium | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2870.py) |
+| 1704 | Easy | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1704.py) |
 
 </details>
 
