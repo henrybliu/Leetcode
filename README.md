@@ -325,6 +325,7 @@ To be added
 | 2610 | Medium | [Assign Cookies](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2610.py) |
 | 2870 | Medium | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2870.py) |
 | 1704 | Easy | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1704.py) |
+| 1347 | Medium | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1347.py) |
 
 </details>
 
