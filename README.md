@@ -326,6 +326,7 @@ To be added
 | 2870 | Medium | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2870.py) |
 | 1704 | Easy | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1704.py) |
 | 1347 | Medium | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1347.py) |
+| 1657 | Medium | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1657.py) |
 
 </details>
 
