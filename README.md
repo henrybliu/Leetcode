@@ -249,6 +249,8 @@ To be added
 | 1155  | Medium | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1155.py) |
 | 91  | Medium | [Decode Ways](https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/91.py) |
 | 1567  | Medium | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1567.py) |
+| 70  | Easy | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/70.py) |
+| 198  | Medium | [House Robber](https://leetcode.com/problems/house-robber/description/?envType=daily-question&envId=2024-01-21) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/198.py) |
 </details>
 
 
@@ -289,6 +291,7 @@ To be added
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 149 | Hard | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/149.py) |
+| 43 | Medium | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/43.py) |
 </details>
 
 ---
@@ -329,7 +332,7 @@ To be added
 | 1347 | Medium | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1347.py) |
 | 1657 | Medium | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1657.py) |
 | 2225 | Medium | [Find Players with Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/?envType=daily-question&envId=2024-01-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2225.py) |
-
+| 1207 | Easy | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/?envType=daily-question&envId=2024-01-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1207.py) |
 </details>
 
 
