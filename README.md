@@ -333,6 +333,7 @@ To be added
 | 1657 | Medium | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1657.py) |
 | 2225 | Medium | [Find Players with Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/?envType=daily-question&envId=2024-01-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2225.py) |
 | 1207 | Easy | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/?envType=daily-question&envId=2024-01-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1207.py) |
+| 645 | Easy | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/645.py) |
 </details>
 
 
