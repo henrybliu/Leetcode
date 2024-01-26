@@ -153,6 +153,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 872 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/872.py) |
 | 938 | Easy | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/938.py) |
 | 2385 | Medium | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2385.py) |
+| 1457 | Medium | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1457.py) |
 </details>
 
 
