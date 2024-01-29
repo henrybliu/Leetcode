@@ -81,7 +81,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  853 | Medium | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/853.py)|
 |  394 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/394.py)|
 |  456 | Medium | [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/456.py)|
-
+|  232 | Easy | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/232.py)|
 </details>
 
 
@@ -206,6 +206,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 17 | Medium | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/17.py) |
 | 131 | Medium | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/131.py) |
 | 79 | Medium | [Word Search](https://leetcode.com/problems/word-search//) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/79.py) |
+| 1239 | Medium | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=daily-question&envId=2024-01-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1239.py) |
 
 </details>
 
