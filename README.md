@@ -82,6 +82,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  394 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/394.py)|
 |  456 | Medium | [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/456.py)|
 |  232 | Easy | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/232.py)|
+|  907 | Medium | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/907.py)|
 </details>
 
 
@@ -260,7 +261,12 @@ To be added
 
 <details>
 <summary> 2-D Dynamic Programming </summary>
-To be added
+
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+| 931 | Medium | [Minimum Falling Path Sum]](https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/931.py) |
+| 1143 | Medium | [Longest Common Subsequence]](https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1143.py) |
+| 576 | Medium | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/576.py) |
 </details>
 
 ---
@@ -271,6 +277,8 @@ To be added
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
 | 134 | Medium | [Gas Station](https://leetcode.com/problems/gas-station/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/134.py) |
+| 2966 | Medium | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/?envType=daily-question&envId=2024-02-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2966.py) |
+
 </details>
 
 ---
