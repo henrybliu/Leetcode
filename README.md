@@ -345,6 +345,7 @@ To be added
 | 1207 | Easy | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/?envType=daily-question&envId=2024-01-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1207.py) |
 | 645 | Easy | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/645.py) |
 | 380 | Medium | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/380.py) |
+| 1291 | Medium | [Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2024-02-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1291.py) |
 </details>
 
 
