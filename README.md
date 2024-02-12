@@ -348,6 +348,7 @@ To be added
 | 1291 | Medium | [Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2024-02-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1291.py) |
 | 451 | Medium | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/451.py) |
 | 647 | Medium | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/647.py) |
+| 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
 </details>
 
 
