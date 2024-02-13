@@ -31,7 +31,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  27 | Easy | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/27.py) |
 |  929 | Easy | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/929.py) |
 |  554 | Medium | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/554.py)|
-
+|  819 | Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/819.py)|
 
 </details>
 
@@ -254,6 +254,7 @@ To be added
 | 1567  | Medium | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1567.py) |
 | 70  | Easy | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/70.py) |
 | 198  | Medium | [House Robber](https://leetcode.com/problems/house-robber/description/?envType=daily-question&envId=2024-01-21) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/198.py) |
+| 5  | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/5.py) |
 </details>
 
 
