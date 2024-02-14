@@ -49,6 +49,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  167 | Medium | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/167.py)|
 |  125 | Easy | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/125.py) |
 |  777 | Medium | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/777.py) |
+|  2149 | Medium | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2149.py) |
 </details>
 
 ---
