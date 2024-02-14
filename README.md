@@ -232,6 +232,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 953 | Easy | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/953.py) |
 | 934 | Medium | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/934.py) |
 | 909 | Medium | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/909.py) |
+| 1306 | Medium | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1306.py) |
 
 </details>
 
