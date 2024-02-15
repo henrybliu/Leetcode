@@ -32,7 +32,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  929 | Easy | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/929.py) |
 |  554 | Medium | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/554.py)|
 |  819 | Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/819.py)|
-
+|  937 | Medium | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/937.py)|
 </details>
 
 ---
