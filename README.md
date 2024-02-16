@@ -33,6 +33,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  554 | Medium | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/554.py)|
 |  819 | Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/819.py)|
 |  937 | Medium | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/937.py)|
+|  1481 | Medium | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1481.py)|
 </details>
 
 ---
