@@ -308,6 +308,7 @@ To be added
 | :---: | :---: | :----: | :---: |
 | 149 | Hard | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/149.py) |
 | 43 | Medium | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/43.py) |
+| 1492 | Medium | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1492.py) |
 </details>
 
 ---
