@@ -283,7 +283,7 @@ To be added
 | 134 | Medium | [Gas Station](https://leetcode.com/problems/gas-station/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/134.py) |
 | 2966 | Medium | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/?envType=daily-question&envId=2024-02-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2966.py) |
 | 2971 | Medium | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2971.py) |
-
+| 1642 | Medium | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1642.py) |
 
 </details>
 
