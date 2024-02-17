@@ -34,6 +34,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  819 | Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/819.py)|
 |  937 | Medium | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/937.py)|
 |  1481 | Medium | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1481.py)|
+| 451 | Medium | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/451.py) |
+| 884 | Easy | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/884.py) |
 </details>
 
 ---
@@ -353,7 +355,6 @@ To be added
 | 645 | Easy | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/645.py) |
 | 380 | Medium | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/380.py) |
 | 1291 | Medium | [Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2024-02-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1291.py) |
-| 451 | Medium | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/451.py) |
 | 647 | Medium | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/647.py) |
 | 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
 </details>
