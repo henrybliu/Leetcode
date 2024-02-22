@@ -36,6 +36,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  1481 | Medium | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1481.py)|
 | 451 | Medium | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/451.py) |
 | 884 | Easy | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/884.py) |
+| 997 | Easy | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/997.py) |
 </details>
 
 ---
