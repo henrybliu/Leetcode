@@ -3,7 +3,7 @@ import heapq
 
 class Solution:
     '''
-    Dijkstra's will prioritize cheaper paths. However, these paths may be
+    Djikstra's will prioritize cheaper paths. However, these paths may be
     longer than k stops. So when adding edges to the priority queue, we should
     check that we either have never visited this node before or that we have
     found a path with shorter stops to it.
