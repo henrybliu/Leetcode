@@ -44,5 +44,40 @@ class Solution:
                 visited[currCity] = currStops
             
         return -1
+    
+# ANOTHER APPROACH USING BELLMAN FORD
+from collections import defaultdict
+class Solution:
+    ''' 
+    This uses the Bellman-Ford algorithm to keep track of the shortest path (or
+    cost in this case) to reach the destination city. We only need to run this
+    for k+1 stops to simulate our maximum number of allowed stops.
+
+    Time: O(E*k)
+    Space: O(V)
+
+    where E is the number of edges, V the number of cities, and k the number of
+    allowed stops
+    '''
+    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        distances  = [float('inf') for _ in range(n)]
+        distances[src] = 0
+        
+        for i in range(k+1):
+            # need to create a copy so that we are not incorrectly updating the original array
+            temp = distances.copy()
+
+            for u,v,p in flights:
+                # we only want to update if we have reached this city previously
+                if distances[u] != float('inf') and distances[u] + p < temp[v]:
+                    temp[v] = distances[u]+p
+
+
+            distances = temp
+
+        return distances[dst] if distances[dst] != float('inf') else -1
+
+
+        
 
         
