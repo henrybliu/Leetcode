@@ -237,6 +237,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 934 | Medium | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/934.py) |
 | 909 | Medium | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/909.py) |
 | 1306 | Medium | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1306.py) |
+| 787 | Medium | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/787.py) |
 
 </details>
 
