@@ -37,6 +37,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 451 | Medium | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/451.py) |
 | 884 | Easy | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/884.py) |
 | 997 | Easy | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/997.py) |
+| 88 | Easy | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/88.py) |
+| 53 | Medium | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/53.py) |
 </details>
 
 ---
