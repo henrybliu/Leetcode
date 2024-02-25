@@ -132,7 +132,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  287 | Medium | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/287.py)|
 |  146 | Medium | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/146.py)|
 |  23 | Medium | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/23.py)|
-
+|  160 | Easy | [Intersection of Two Linked Lists](hhttps://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/160.py)|
 </details>
 
 ---
