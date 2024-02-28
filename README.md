@@ -162,6 +162,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 938 | Easy | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/938.py) |
 | 2385 | Medium | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2385.py) |
 | 1457 | Medium | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1457.py) |
+| 513 | Medium | [Find Bottom Left Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/513.py) |
+| 236 | Medium | [Lowest Common Ancestor of a Binary Tree](| 513 | Medium | [Find Bottom Left Value](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/513.py) |) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/236.py) |
 </details>
 
 
@@ -240,7 +242,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 909 | Medium | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/909.py) |
 | 1306 | Medium | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1306.py) |
 | 787 | Medium | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/787.py) |
-
+| 73 | Medium | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/73.py) |
 </details>
 
 ---
