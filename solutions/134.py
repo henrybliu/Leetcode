@@ -2,8 +2,10 @@ class Solution:
     '''
     When going through the gas stations, a key realization is that if we ever
     encounter a point where the total cost exceeds the total amount of gas,
-    then none of indices to the left of this point, will work. The solution
-    must therefore be to the right still.
+    then none of indices to the left of this point, will work. The current
+    point also wouldn't work because if the total is below zero, then the
+    current station had a cost that was greater than gas.The solution must
+    therefore be to the right still.
     
     Time: O(n)
     Space: O(1)

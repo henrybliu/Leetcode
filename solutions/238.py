@@ -1,3 +1,4 @@
+# solution 1:
 class Solution:
     '''
     We will traverse the input array twice going both left and right to
@@ -22,3 +23,25 @@ class Solution:
 
         return res
         
+# solution 2:
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        left = []   
+        right = []
+
+        curr = 1
+        for i in range(len(nums)):
+            left.append(curr)
+            curr *= nums[i]
+
+        curr = 1
+        for i in range(len(nums)-1, -1, -1):
+            right.append(curr)
+            curr *= nums[i]
+        right = right[::-1]
+
+        res = []
+        for i in range(len(nums)):
+            res.append(left[i]*right[i])
+
+        return res

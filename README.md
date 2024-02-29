@@ -39,6 +39,11 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 997 | Easy | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/997.py) |
 | 88 | Easy | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/88.py) |
 | 53 | Medium | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/53.py) |
+| 13 | Easy | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/13.py) |
+| 238 | Medium | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/238.py) |
+| 560 | Medium | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/560.py) |
+| 974 | Medium | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/974.py) |
+| 41 | Hard | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/41.py) |
 </details>
 
 ---
@@ -69,6 +74,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  3 | Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/3.py) |
 |  424 | Medium | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/424.py) |
 |  567 | Medium | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/567.py)|
+|  713 | Medium | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/713.py)|
+|  2405 | Medium | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2405.py)|
 
 </details>
 
@@ -266,6 +273,8 @@ To be added
 | 70  | Easy | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/70.py) |
 | 198  | Medium | [House Robber](https://leetcode.com/problems/house-robber/description/?envType=daily-question&envId=2024-01-21) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/198.py) |
 | 5  | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/5.py) |
+| 96  | Medium | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/96.py) |
+| 152  | Medium | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/152.py) |
 </details>
 
 
@@ -292,6 +301,7 @@ To be added
 | 2966 | Medium | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/?envType=daily-question&envId=2024-02-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2966.py) |
 | 2971 | Medium | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2971.py) |
 | 1642 | Medium | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1642.py) |
+| 45 | Medium | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/45.py) |
 
 </details>
 
@@ -317,6 +327,7 @@ To be added
 | 149 | Hard | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/149.py) |
 | 43 | Medium | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/43.py) |
 | 1492 | Medium | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1492.py) |
+| 12 | Medium | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/12.py) |
 </details>
 
 ---
