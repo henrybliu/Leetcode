@@ -61,6 +61,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  125 | Easy | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/125.py) |
 |  777 | Medium | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/777.py) |
 |  2149 | Medium | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2149.py) |
+|  977 | Easy | [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-03-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/977.py) |
 </details>
 
 ---
@@ -302,6 +303,7 @@ To be added
 | 2971 | Medium | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2971.py) |
 | 1642 | Medium | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1642.py) |
 | 45 | Medium | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/45.py) |
+| 2864 | Easy | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2864.py) |
 
 </details>
 
@@ -374,6 +376,7 @@ To be added
 | 1291 | Medium | [Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2024-02-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1291.py) |
 | 647 | Medium | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/647.py) |
 | 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
+
 </details>
 
 
