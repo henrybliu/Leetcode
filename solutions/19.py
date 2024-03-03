@@ -5,30 +5,31 @@
 #         self.next = next
 class Solution:
     '''
-    Want create a gap of size n between the fast and slow pointers. When the
-    fast pointer reaches, the end, we can remove the node at the slow pointer.
-    
+    First create a gap of size n between the fast and slow pointers. When the
+    fast pointer reaches the end of the linked list, the left pointer should be
+    pointing at the node to be removed. We should also create a dummy node that
+    points to the current head node in case we need to remove the head node.
+
     Time: O(n)
     Space: O(1)
     '''
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        dummy = ListNode()
-        dummy.next = head
-        prev = dummy
-        l = head
+        res = ListNode()
+        res.next = head
+        prev = res
+
         r = head
 
-        #create a gap of size n
         for i in range(n):
             r = r.next
 
-        #move l to the node that needs to be removed
+        l = head
+
         while r:
             r = r.next
             prev = l
             l = l.next
 
-        #remove the node at l
         prev.next = l.next
 
-        return dummy.next        
+        return res.next
