@@ -63,6 +63,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  777 | Medium | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/777.py) |
 |  2149 | Medium | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2149.py) |
 |  977 | Easy | [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-03-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/977.py) |
+|  1750 | Medium | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1750.py) |
 </details>
 
 ---
