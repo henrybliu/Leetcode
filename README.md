@@ -173,7 +173,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 2385 | Medium | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2385.py) |
 | 1457 | Medium | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1457.py) |
 | 513 | Medium | [Find Bottom Left Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/513.py) |
-| 236 | Medium | [Lowest Common Ancestor of a Binary Tree](| 513 | Medium | [Find Bottom Left Value](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/513.py) |) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/236.py) |
+| 236 | Medium | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/236.py) |
+| 103 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/103.py) |
 </details>
 
 
@@ -332,6 +333,7 @@ To be added
 | 43 | Medium | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/43.py) |
 | 1492 | Medium | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1492.py) |
 | 12 | Medium | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/12.py) |
+| 223 | Medium | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/223.py) |
 </details>
 
 ---
