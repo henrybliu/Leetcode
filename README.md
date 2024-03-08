@@ -45,6 +45,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 974 | Medium | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/974.py) |
 | 41 | Hard | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/41.py) |
 | 1413 | Easy | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1413.py) |
+| 3005 | Easy | [Count Elements with Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/3005.py) |
 </details>
 
 ---
