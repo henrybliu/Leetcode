@@ -46,6 +46,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 41 | Hard | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/41.py) |
 | 1413 | Easy | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1413.py) |
 | 3005 | Easy | [Count Elements with Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/3005.py) |
+| 791 | Medium | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/791.py) |
+
 </details>
 
 ---
@@ -65,6 +67,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  2149 | Medium | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2149.py) |
 |  977 | Easy | [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-03-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/977.py) |
 |  1750 | Medium | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1750.py) |
+|  2540 | Easy | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2540.py) |
 </details>
 
 ---
@@ -122,7 +125,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 540 | Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/540.py) |
 | 162 | Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/find-peak-element/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/162.py) |
 | 4 | Hard | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/4.py) |
-
+| 2485 | Easy | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2485.py) |
 
 </details>
 
