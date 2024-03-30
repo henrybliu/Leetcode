@@ -3,11 +3,10 @@ import heapq
 
 class Solution:
     '''
-    Use a max heap and a deque. The max heap is because we want to process as
-    much as possible the tasks that have the most occurrences. The deque can
-    be used to store the tasks that we have processed and that we need to wait
-    for n time before being able to process it again.
-    
+    We want to start with the tasks that appear the most. We maintain this
+    ordering with a max heap. We also use a queue to prevent the same task from
+    being completed if an interval of n has not passed yet.
+
     Time: O(nlogn)
     Space: O(n)
     '''
@@ -26,9 +25,6 @@ class Solution:
                 if currCount + 1 < 0:
                     q.append((time+n, currCount+1, task))
 
-            # there must be n units of time between two of the same tasks - so
-            # we can't process a task as soon as the time is met - needs to be
-            # the next unit of time!
             while q and q[0][0] == time:
                 waitTime, count, task = q.popleft()
                 heapq.heappush(h, (count, task))

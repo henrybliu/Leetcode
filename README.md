@@ -148,6 +148,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  23 | Medium | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/23.py)|
 |  160 | Easy | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/160.py)|
 |  876 | Easy | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/876.py)|
+|  876 | Easy | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/876.py)|
+|  1171 | Medium | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1171.py)|
 </details>
 
 ---
@@ -325,6 +327,8 @@ To be added
 | 57 | Medium | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/57.py) |
 | 56 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/56.py) |
 | 435 | Medium | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/435.py) |
+| 452 | Medium | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=daily-question&envId=2024-03-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/452.py) |
+
 </details>
 
 ---
