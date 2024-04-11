@@ -1,6 +1,6 @@
 class MyQueue:
-    '''
-    Use two stacks to implement a FIFO queue using only stack operations. 
+    """
+    Use two stacks to implement a FIFO queue using only stack operations.
 
     Stack1's last element to be popped is the element at the front of the
     queue.
@@ -9,8 +9,8 @@ class MyQueue:
     move these items back into stack1 after finding the first element.
 
     Time: O(n) for pop and peek. O(1) for init, push, and empty
-    Space: O(n) 
-    '''
+    Space: O(n)
+    """
 
     def __init__(self):
         self.stack1 = []
@@ -18,7 +18,6 @@ class MyQueue:
 
     def push(self, x: int) -> None:
         self.stack1.append(x)
-        
 
     def pop(self) -> int:
         while len(self.stack1) > 1:
@@ -29,9 +28,8 @@ class MyQueue:
         while self.stack2:
             self.stack1.append(self.stack2.pop())
 
-        return front 
+        return front
 
-    
     def peek(self) -> int:
         while len(self.stack1) > 1:
             self.stack2.append(self.stack1.pop())
@@ -45,8 +43,7 @@ class MyQueue:
         return front
 
     def empty(self) -> bool:
-        return len(self.stack1)==0
-        
+        return len(self.stack1) == 0
 
 
 # Your MyQueue object will be instantiated and called as such:

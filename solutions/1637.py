@@ -1,14 +1,15 @@
 class Solution:
-    '''
+    """
     This question can be reduced to just finding the maximum distance between
     two x coordinates.
 
     Time: O(nlogn)
     Space: O(n)
-    '''
+    """
+
     def maxWidthOfVerticalArea(self, points: List[List[int]]) -> int:
         xCoords = []
-        for x,y in points:
+        for x, y in points:
             xCoords.append(x)
 
         xCoords.sort()

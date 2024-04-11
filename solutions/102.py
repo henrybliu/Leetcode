@@ -7,14 +7,16 @@
 
 from collections import deque
 
+
 class Solution:
-    '''
+    """
     Use a queue to maintain the nodes at each level. Only iterate through the
     size of one level at a time when adding to the queue.
-    
+
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
@@ -25,13 +27,13 @@ class Solution:
         res = []
 
         while q:
-            #to simulate each level
+            # to simulate each level
             level = []
             for i in range(len(q)):
                 curr = q.popleft()
                 level.append(curr.val)
 
-                #add the current node's children
+                # add the current node's children
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:

@@ -5,10 +5,11 @@
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
-    '''
+    """
     We can use post-order traversal to check for 3 cases:
-    
+
     1.) the current node and its left child are p and q
     2.) the current node and its right child are p and q
     3.) the left child and the right child are p and q
@@ -18,14 +19,17 @@ class Solution:
 
     Time: O(n)
     Space: O(n)
-    '''
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+    """
+
+    def lowestCommonAncestor(
+        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
+    ) -> "TreeNode":
         res = [None]
 
         def dfs(root):
             if not root:
                 return False
-            
+
             left = dfs(root.left)
             right = dfs(root.right)
             curr = root == p or root == q
@@ -33,7 +37,7 @@ class Solution:
             if (left and right) or (curr and left) or (curr and right):
                 res[0] = root
                 return
-            
+
             return left or right or curr
 
         dfs(root)

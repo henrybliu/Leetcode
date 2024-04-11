@@ -5,15 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    '''
+    """
     Perform in-order traversal to create an array of elements in ascending
     order. Extract the kth element.
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         order = []
+
         def dfs(root):
             if not root:
                 return
@@ -22,4 +24,4 @@ class Solution:
             right = dfs(root.right)
 
         dfs(root)
-        return order[k-1]
+        return order[k - 1]

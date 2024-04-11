@@ -1,5 +1,5 @@
 class Solution:
-    '''
+    """
     There are some key realizations to be made:
 
     Case 1: We encounter a postive number
@@ -20,7 +20,8 @@ class Solution:
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def getMaxLen(self, nums: List[int]) -> int:
         posLen = 0
         negLen = 0
@@ -28,7 +29,7 @@ class Solution:
 
         for num in nums:
             if num > 0:
-                posLen +=1
+                posLen += 1
                 negLen = negLen + 1 if negLen else 0
             elif num < 0:
                 # can do this in one line to eliminate need for temp variables
@@ -39,5 +40,3 @@ class Solution:
 
             maxLen = max(maxLen, posLen)
         return maxLen
-
-

@@ -1,7 +1,8 @@
 import random
 
+
 class RandomizedSet:
-    '''
+    """
     A set() doesn't allow for random removal. We can instead use a random
     number generator to remove a random value from an array
 
@@ -14,11 +15,12 @@ class RandomizedSet:
     Time: O(1)
     Space: O(n)
 
-    '''    
+    """
+
     def __init__(self):
         self.map = {}
         self.nums = []
-        
+
     def insert(self, val: int) -> bool:
         if val in self.map:
             return False
@@ -34,10 +36,10 @@ class RandomizedSet:
         valIdx = self.map[val]
         lastNum = self.nums[-1]
 
-        #update nums by removing the last element
+        # update nums by removing the last element
         self.nums[valIdx] = lastNum
 
-        #update the index of the last val in the hashmap
+        # update the index of the last val in the hashmap
         self.map[lastNum] = valIdx
 
         # remove the val from both data structures

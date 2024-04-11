@@ -1,11 +1,12 @@
 class Solution:
-    '''
+    """
     At each position, we can take and stay at the same index, or we cannot take
     and move on to the next index.
-    
+
     Time: O(2^n)
     Space: O(2^n)
-    '''
+    """
+
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
 
@@ -26,8 +27,8 @@ class Solution:
 
             # don't take
             arr.pop()
-            backtrack(idx+1, arr, currSum)
+            backtrack(idx + 1, arr, currSum)
             return
 
-        backtrack(0,[],0)
+        backtrack(0, [], 0)
         return res

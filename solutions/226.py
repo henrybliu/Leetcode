@@ -7,14 +7,16 @@
 
 from collections import deque
 
+
 class Solution:
-    '''
+    """
     Can invert a binary tree by doing post-order traversal and flipping the
     left and right child nodes.
-    
+
     Time: O(n)
     Space: O(n) - recursive stack
-    '''
+    """
+
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(root):
             if not root:
@@ -29,13 +31,3 @@ class Solution:
 
         dfs(root)
         return root
-
-
-
-
-
-
-
-
-    
-

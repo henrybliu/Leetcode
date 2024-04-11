@@ -1,8 +1,9 @@
 from collections import defaultdict
 import heapq
 
+
 class Twitter:
-    '''
+    """
     Use a hashmap to map who follows who. Have one large max heap with the
     timestamps associated to when each tweet is created. Also associate tweets
     with the userId to identify the 10 most recent tweets belonging to a user
@@ -12,7 +13,7 @@ class Twitter:
     postTweet, O(1) for follow() and unfollow()
     Space: O(n + m)
     where n are the tweets and m the users
-    '''
+    """
 
     def __init__(self):
         self.h = []
@@ -21,7 +22,7 @@ class Twitter:
 
     def postTweet(self, userId: int, tweetId: int) -> None:
         heapq.heappush(self.h, (-self.timestamp, userId, tweetId))
-        self.timestamp+=1
+        self.timestamp += 1
 
     def getNewsFeed(self, userId: int) -> List[int]:
         popped = []
@@ -37,7 +38,6 @@ class Twitter:
         for pop in popped:
             heapq.heappush(self.h, pop)
         return res
-
 
     def follow(self, followerId: int, followeeId: int) -> None:
         self.follows[followerId].add(followeeId)

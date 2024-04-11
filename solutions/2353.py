@@ -1,8 +1,9 @@
 from collections import defaultdict
 import heapq
 
+
 class FoodRatings:
-    '''
+    """
     We can use 3 hashmaps to keep track of each food's most updated rating, the
     cuisine that each food belongs to, and each cuisine's existing ratings with
     corresponding food item. We can skip over old food ratings that are not
@@ -11,7 +12,7 @@ class FoodRatings:
 
     Time: O(n) intialization, O(1) changeRating(), O(nlogn) for highest rated
     Space: O(n)
-    '''
+    """
 
     def __init__(self, foods: List[str], cuisines: List[str], ratings: List[int]):
         # keep track of each food's most updated rating

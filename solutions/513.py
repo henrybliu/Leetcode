@@ -5,13 +5,16 @@
 #         self.left = left
 #         self.right = right
 from collections import deque
+
+
 class Solution:
-    '''
+    """
     Use level order traversal and update res to be the leftmost node value.
-    
+
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
         q = deque([root])
         res = 0
@@ -21,7 +24,7 @@ class Solution:
                 curr = q.popleft()
                 if i == 0:
                     res = curr.val
-                
+
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:

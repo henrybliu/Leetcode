@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    '''
+    """
     First create a gap of size n between the fast and slow pointers. When the
     fast pointer reaches the end of the linked list, the left pointer should be
     pointing at the node to be removed. We should also create a dummy node that
@@ -12,7 +12,8 @@ class Solution:
 
     Time: O(n)
     Space: O(1)
-    '''
+    """
+
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         res = ListNode()
         res.next = head

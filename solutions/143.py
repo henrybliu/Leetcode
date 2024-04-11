@@ -4,16 +4,17 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    '''
+    """
     We can reverse the second half of the linked list and then have a pointer
     point to the start of this second half of the linked list. We then
     alternate between adding from the head and the flipped pointer.
-    
+
     Time: O(n)
     Space: O(1)
-    '''
+    """
+
     def reorderList(self, head: Optional[ListNode]) -> None:
-        #find mid point in the linked list
+        # find mid point in the linked list
         slow = head
         fast = head.next
 
@@ -21,13 +22,13 @@ class Solution:
             fast = fast.next.next
             slow = slow.next
 
-        #this is the middle of the list
+        # this is the middle of the list
         r = slow.next
 
-        #want to create separation in the two lists
+        # want to create separation in the two lists
         slow.next = None
 
-        #start reversing the second half of the linked list
+        # start reversing the second half of the linked list
         l = None
         while r:
             temp = r.next
@@ -45,14 +46,12 @@ class Solution:
             curr.next = flipped
             curr = curr.next
             curr.next = original
-            curr= curr.next
+            curr = curr.next
             flipped = flipNext
             original = origNext
 
-        #add the remainder of the linked list
+        # add the remainder of the linked list
         if original:
-            curr.next=original
+            curr.next = original
         if flipped:
-            curr.next=flipped
-            
-
+            curr.next = flipped

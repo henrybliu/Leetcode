@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    '''
+    """
     We can have a set that keeps track of the pairs that we can form at each
     child node. If a pair can be formed, we remove it from the pairs set. This
     helps maintain the number of odd (unpaired) occurrences for any number.
@@ -15,8 +15,9 @@ class Solution:
 
     Time: O(n)
     Space: O(n^2)
-    '''
-    def pseudoPalindromicPaths (self, root: Optional[TreeNode]) -> int:
+    """
+
+    def pseudoPalindromicPaths(self, root: Optional[TreeNode]) -> int:
         def dfs(root, pairs):
             if not root:
                 return 0
@@ -29,7 +30,7 @@ class Solution:
             # we can add to the count if there is only 1 or 0 occurrences of a
             # number that doesn't have a pair
             if not root.left and not root.right:
-                if len(pairs)<=1:
+                if len(pairs) <= 1:
                     return 1
                 else:
                     return 0
@@ -38,7 +39,6 @@ class Solution:
             left = dfs(root.left, set(pairs))
             right = dfs(root.right, set(pairs))
 
-            return left+right
-
+            return left + right
 
         return dfs(root, set())

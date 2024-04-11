@@ -1,5 +1,5 @@
 class Solution:
-    '''
+    """
     After sorting, we can recognize that that if there is ever a difference
     greater than k between any number, then there is no arrangement that can
     yield a viable answer. So, we can greedily try to keep adding the next
@@ -9,10 +9,11 @@ class Solution:
 
     Time: O(nlogn)
     Space: O(n)
-    '''
+    """
+
     def divideArray(self, nums: List[int], k: int) -> List[List[int]]:
         nums.sort()
-        res = [[] for _ in range(len(nums)//3)]
+        res = [[] for _ in range(len(nums) // 3)]
 
         currArr = 0
         for num in nums:
@@ -23,7 +24,11 @@ class Solution:
             elif len(res[currArr]) == 1 and num - res[currArr][-1] <= k:
                 res[currArr].append(num)
             # case when there are two elements in the current array being built
-            elif len(res[currArr])==2 and num-res[currArr][-1] <= k and num-res[currArr][-2] <= k:
+            elif (
+                len(res[currArr]) == 2
+                and num - res[currArr][-1] <= k
+                and num - res[currArr][-2] <= k
+            ):
                 res[currArr].append(num)
             # we can't add the number to the current array
             else:

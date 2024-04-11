@@ -5,8 +5,10 @@
 #         self.next = next
 
 from collections import deque
+
+
 class Solution:
-    '''
+    """
     Create a queue that will hold all of the head nodes. Keep merging two lists at a time until there is only one remaining list.
 
     Time: O(k*n)
@@ -14,7 +16,8 @@ class Solution:
 
     where k is the number of nodes in the longest linked list and n is the
     number of linked lists
-    '''
+    """
+
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         def mergeTwo(t, b):
             dummy = ListNode()
@@ -42,7 +45,7 @@ class Solution:
             second = q.popleft()
 
             q.append(mergeTwo(first, second))
-        
+
         if q:
             return q[0]
         else:

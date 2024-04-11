@@ -7,20 +7,22 @@
 
 from collections import deque
 
+
 class Solution:
-    '''
+    """
     Perform a level-order tree traversal and only saving the right-most node.
-    
+
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         # base case
         if not root:
             return []
 
         res = []
-    
+
         q = deque()
         q.append(root)
 

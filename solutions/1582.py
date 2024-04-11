@@ -1,12 +1,14 @@
 from collections import defaultdict
 
+
 class Solution:
-    '''
+    """
     Can use two hashmaps to keep track of the number of zeros/ones per row/column
-    
+
     Time: O(m*n)
     Space: O(m*n)
-    '''
+    """
+
     def numSpecial(self, mat: List[List[int]]) -> int:
         rows = len(mat)
         cols = len(mat[0])
@@ -25,15 +27,13 @@ class Solution:
             summ = 0
             for r in range(rows):
                 summ += mat[r][c]
-            colCount[c]=summ
+            colCount[c] = summ
 
         res = 0
 
         for r in range(rows):
             for c in range(cols):
-                if mat[r][c] == 1 and colCount[c]-1==0 and rowCount[r]-1==0:
-                    res+=1
+                if mat[r][c] == 1 and colCount[c] - 1 == 0 and rowCount[r] - 1 == 0:
+                    res += 1
 
         return res
-
-        

@@ -1,7 +1,8 @@
 from collections import deque
 
+
 class Solution:
-    '''
+    """
     Approach this iteratively by adding one number's letters at a time to all
     currently created combinations.
 
@@ -10,16 +11,26 @@ class Solution:
 
     where n is the number of digits and k the max number of letters
     corresponding to a number
-    '''
+    """
+
     def letterCombinations(self, digits: str) -> List[str]:
-        mapp = {'2': 'abc', '3': 'def', '4':'ghi', '5':'jkl', '6':'mno', '7':'pqrs', '8':'tuv', '9':'wxyz'}
+        mapp = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz",
+        }
 
         if not digits:
             return []
 
         q = deque()
-        q.append(('', 0)) # (currString, idx)
-        
+        q.append(("", 0))  # (currString, idx)
+
         res = []
         while q:
             currString, idx = q.popleft()
@@ -31,6 +42,6 @@ class Solution:
                 num = digits[idx]
 
                 for letter in mapp[num]:
-                    q.append((currString + letter, idx+1))
-            
+                    q.append((currString + letter, idx + 1))
+
         return res

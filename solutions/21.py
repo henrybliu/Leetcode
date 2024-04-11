@@ -4,14 +4,17 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    '''
+    """
     Take from each list the smaller of the two nodes. If we finish with one
     list, add the remainder of the other list.
-    
+
     Time: O(n)
     Space: O(1)
-    '''
-    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+    """
+
+    def mergeTwoLists(
+        self, list1: Optional[ListNode], list2: Optional[ListNode]
+    ) -> Optional[ListNode]:
         head = ListNode()
         curr = head
         head.next = curr
@@ -23,7 +26,7 @@ class Solution:
             else:
                 curr.next = list2
                 list2 = list2.next
-            
+
             curr = curr.next
 
         if not list1:
@@ -31,6 +34,5 @@ class Solution:
 
         if not list2:
             curr.next = list1
-
 
         return head.next

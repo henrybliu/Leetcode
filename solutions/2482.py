@@ -1,15 +1,17 @@
 from collections import defaultdict
 
+
 class Solution:
-    '''
+    """
     Use two hashmaps to store the number of 1s per row and column. The
     number of zeros can then be computed by the length of the row/column
     minus the number of 1s (sum).
 
     Time: O(m*n)
     Space: O(m*n)
-    
-    '''
+
+    """
+
     def onesMinusZeros(self, grid: List[List[int]]) -> List[List[int]]:
 
         rows = len(grid)

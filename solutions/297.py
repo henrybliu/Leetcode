@@ -7,8 +7,9 @@
 
 from collections import deque
 
+
 class Codec:
-    '''
+    """
     Serialize by performing a level-order traversal, adding a comma between
     each node and N for a null node. This will create the encrypted string.
 
@@ -19,16 +20,17 @@ class Codec:
 
     Time: O(n) for both
     Space: O(n) for both
-    '''
+    """
+
     def serialize(self, root):
         """Encodes a tree to a single string.
-        
+
         :type root: TreeNode
         :rtype: str
         """
         if not root:
             return "N"
-        
+
         encrypt = []
         q = deque()
         q.append(root)
@@ -43,20 +45,19 @@ class Codec:
 
             else:
                 encrypt.append("N")
-                
-        toString =','.join(encrypt)
+
+        toString = ",".join(encrypt)
         return toString
-        
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
-        
+
         :type data: str
         :rtype: TreeNode
         """
-        data = data.split(',')
-        
-        if data[0] == 'N':
+        data = data.split(",")
+
+        if data[0] == "N":
             return None
 
         root = TreeNode(data[0])
@@ -67,21 +68,21 @@ class Codec:
             curr = q.popleft()
 
             if curr:
-                if i < len(data) and data[i] != 'N':
+                if i < len(data) and data[i] != "N":
                     curr.left = TreeNode(data[i])
                     q.append(curr.left)
-                
-                i+=1
+
+                i += 1
 
                 if i < len(data) and data[i] != "N":
                     curr.right = TreeNode(data[i])
                     q.append(curr.right)
-        
-                i+=1
+
+                i += 1
 
         return root
 
-        
+
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
 # deser = Codec()

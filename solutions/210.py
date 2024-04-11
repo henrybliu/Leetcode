@@ -1,15 +1,17 @@
 from collections import defaultdict, deque
 
+
 class Solution:
-    '''
+    """
     Use topological sort and start with the courses that have no prerequisites
     and see if we can take all courses.
-    
+
     Time: O(n)
     Space: O(n)
-    
+
     where n is the number of courses
-    '''
+    """
+
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         # create an adjList of which course is a prereq for each
         adjList = defaultdict(list)
@@ -18,24 +20,24 @@ class Solution:
 
         res = []
 
-        for c,p in prerequisites:
+        for c, p in prerequisites:
             adjList[p].append(c)
-            numPre[c]+=1
+            numPre[c] += 1
 
         # start with the prereqs and see if all other classes can be reaached
         q = deque()
         for i in range(len(numPre)):
-            if numPre[i]==0:
+            if numPre[i] == 0:
                 q.append(i)
 
         while q:
             curr = q.popleft()
             res.append(curr)
-            
+
             for neighbor in adjList[curr]:
-                numPre[neighbor]-=1
+                numPre[neighbor] -= 1
                 if numPre[neighbor] == 0:
                     q.append(neighbor)
 
         # check that all courses were completed
-        return res if len(res)==numCourses else []
+        return res if len(res) == numCourses else []

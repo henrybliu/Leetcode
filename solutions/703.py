@@ -1,11 +1,13 @@
 import heapq
+
+
 class KthLargest:
-    '''
+    """
     Use a min heap to only store the k largest elements.
-    
+
     Time: O(nlogn)
     Space: O(n)
-    '''
+    """
 
     def __init__(self, k: int, nums: List[int]):
         self.heap = []

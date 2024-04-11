@@ -1,12 +1,13 @@
 class Solution:
-    '''
+    """
     Use a stack to validate if a valid pair can be formed.
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def isValid(self, s: str) -> bool:
-        pairs= {')':'(', '}':'{', ']':'['}
+        pairs = {")": "(", "}": "{", "]": "["}
         stack = []
 
         for c in s:
@@ -15,4 +16,4 @@ class Solution:
             else:
                 stack.append(c)
 
-        return len(stack)==0
+        return len(stack) == 0

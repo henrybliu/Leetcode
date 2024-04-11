@@ -5,22 +5,23 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    '''
+    """
     At each node we want to try taking the max sum of the current node and its
     two children. We also pass up the greater of the paths - either the left or
     the right including the current node.
-    
+
     Time: O(n)
     Space: O(n) - recursive stack
-    '''
+    """
+
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        res = [float('-inf')]
-        
+        res = [float("-inf")]
+
         def dfs(root):
             if not root:
                 return 0
-            #at each node, want to add the left and the right
-            #then pass up the longest path going either down or right 
+            # at each node, want to add the left and the right
+            # then pass up the longest path going either down or right
             left = dfs(root.left)
             right = dfs(root.right)
 

@@ -1,11 +1,12 @@
 class Solution:
-    '''
+    """
     Create a set of the unique emails that were created. Perform string parsing as needed.
 
     Time: O(n*k)
     Space: O(n*k)
     where n is the number of emails and k is the longest email length
-    '''
+    """
+
     def numUniqueEmails(self, emails: List[str]) -> int:
         uniq = set()
         for email in emails:

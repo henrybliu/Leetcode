@@ -4,8 +4,9 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
-    '''
+    """
     For different length lists, we need to have both pointers be at the same
     "level". Rather than counting the length of each list, we can do so by
     moving the pointer to the end and resetting them to then point at the
@@ -17,8 +18,11 @@ class Solution:
 
     Time: O(m+n)
     Space: O(1)
-    '''
-    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+    """
+
+    def getIntersectionNode(
+        self, headA: ListNode, headB: ListNode
+    ) -> Optional[ListNode]:
         a = headA
         b = headB
 

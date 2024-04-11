@@ -7,15 +7,17 @@
 
 from collections import deque
 
+
 class Solution:
-    '''
+    """
     Use post-order traversal to add to an array the leaf nodes from left to
     right. Do this for both trees and then compare the created arrays if they
     are the same.
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         def dfs(root, leaves):
             if not root:
@@ -28,7 +30,7 @@ class Solution:
                 leaves.append(root.val)
 
             return leaves
-        
+
         leaves1 = dfs(root1, [])
         leaves2 = dfs(root2, [])
 

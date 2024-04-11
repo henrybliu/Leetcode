@@ -1,14 +1,16 @@
 import heapq
 
+
 class Solution:
-    '''
+    """
     Only store the k largest elements in the heap. Use a min heap so that we
     only store the largest values.
 
     Time: O(nlogn)
     Space: O(n)
 
-    '''
+    """
+
     def findKthLargest(self, nums: List[int], k: int) -> int:
         heap = []
 
@@ -20,4 +22,3 @@ class Solution:
                     heapq.heapreplace(heap, num)
 
         return heap[0]
-

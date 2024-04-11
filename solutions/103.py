@@ -5,14 +5,17 @@
 #         self.left = left
 #         self.right = right
 from collections import deque
+
+
 class Solution:
-    '''
+    """
     Use level order traveral where for every other level, we would add the
     reverse of the level to the result.
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
@@ -40,5 +43,5 @@ class Solution:
             else:
                 res.append(level[::-1])
                 goingRight = True
-        
+
         return res

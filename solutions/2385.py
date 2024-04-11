@@ -7,17 +7,19 @@
 
 from collections import defaultdict, deque
 
+
 class Solution:
-    ''' 
+    """
     Create an undirected graph and perform BFS on the start root until all
     nodes are reached.
 
     Time: O(n)
     Space: O(n)
-    '''
+    """
+
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
         adjList = defaultdict(set)
-        
+
         # perform dfs to create an undirected graph for this tree
         def dfs(root):
             if not root:
@@ -45,7 +47,7 @@ class Solution:
 
         # perform BFS starting from the start node
         while q:
-            minutes +=1
+            minutes += 1
             for i in range(len(q)):
                 curr = q.popleft()
 

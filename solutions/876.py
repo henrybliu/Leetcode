@@ -4,14 +4,15 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    '''
+    """
     Can use fast and slow pointers where the fast pointer moves twice as fast.
     If the past pointer moves twice as fast, that means that when it reaches
     the end of the linked list, the slow pointer would in the middle.
 
     Time: O(n)
     Space: O(1)
-    '''
+    """
+
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         slow = head
         fast = head

@@ -1,18 +1,19 @@
 class Solution:
-    '''
+    """
     Idea is to keep track of the previous iteration's minimum and maximum
     values. That way we can try to mulitply to those values and find an even
     larger value.
 
     We want to keep the most minimum value for when we encounter a negative
     value.
-    
+
     We should also consider the current value itself to be a start of a new
     subarray.
 
     Time: O(n)
     Space: O(1)
-    '''
+    """
+
     def maxProduct(self, nums: List[int]) -> int:
         currMin = nums[0]
         currMax = nums[0]
