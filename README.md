@@ -49,6 +49,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 791 | Medium | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/791.py) |
 | 930 | Medium | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/930.py) |
 | 525 | Medium | [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/525.py) |
+| 1701 | Medium | [Average Time Waiting](https://leetcode.com/problems/average-waiting-time/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1701.py) |
 
 </details>
 
@@ -85,7 +86,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  567 | Medium | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/567.py)|
 |  713 | Medium | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/713.py)|
 |  2405 | Medium | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2405.py)|
-
+|  1438 | Medium | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1438.py)|
 </details>
 
 ---
@@ -106,6 +107,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  456 | Medium | [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/456.py)|
 |  232 | Easy | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/232.py)|
 |  907 | Medium | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/907.py)|
+|  1190 | Medium | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1190.py)|
 </details>
 
 
@@ -152,6 +154,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  876 | Easy | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/876.py)|
 |  876 | Easy | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/876.py)|
 |  1171 | Medium | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1171.py)|
+|  2181 | Medium | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2181.py)|
+|  2058 | Medium | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2058.py)|
 </details>
 
 ---
@@ -184,6 +188,12 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 513 | Medium | [Find Bottom Left Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/513.py) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/236.py) |
 | 103 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/103.py) |
+| 1382 | Medium | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1382.py) |
+| 2192 | Medium | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2192.py) |
+| 1530 | Medium | [Number of Good Leaf Node Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1530.py) |
+| 1110 | Medium | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1110.py) |
+| 2096 | Medium | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2096.py) |
+| 2196 | Medium | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2196.py) |
 </details>
 
 
@@ -215,7 +225,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 215 | Medium | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/215.py) |
 | 295 | Medium | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/295.py) |
 | 621 | Medium | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/621.py) |
-
+| 778 | Hard | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/778.py) |
 
 </details>
 
@@ -316,7 +326,10 @@ To be added
 | 1642 | Medium | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1642.py) |
 | 45 | Medium | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/45.py) |
 | 2864 | Easy | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2864.py) |
-
+| 2285 | Medium | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2285.py) |
+| 1605 | Medium | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1605.py) |
+| 1717 | Medium | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1717.py) |
+| 1509 | Medium | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1509.py) |
 </details>
 
 ---
@@ -345,6 +358,7 @@ To be added
 | 1492 | Medium | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1492.py) |
 | 12 | Medium | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/12.py) |
 | 223 | Medium | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/223.py) |
+| 2582 | Easy | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2582.py) |
 </details>
 
 ---

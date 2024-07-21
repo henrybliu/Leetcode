@@ -14,13 +14,13 @@ class Solution:
     def balanceBST(self, root: TreeNode) -> TreeNode:
         nums = []
 
-        def postOrder(root):
+        def inOrder(root):
             if not root:
                 return
 
-            postOrder(root.left)
+            inOrder(root.left)
             nums.append(root.val)
-            postOrder(root.right)
+            inOrder(root.right)
 
         # use indices instead of splicing to preserve time complexity
         def createTree(l, r):
@@ -34,5 +34,5 @@ class Solution:
 
             return root
 
-        postOrder(root)
+        inOrder(root)
         return createTree(0, len(nums) - 1)
