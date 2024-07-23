@@ -50,6 +50,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 930 | Medium | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/930.py) |
 | 525 | Medium | [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/525.py) |
 | 1701 | Medium | [Average Time Waiting](https://leetcode.com/problems/average-waiting-time/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1701.py) |
+| 1636 | Easy | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1636.py) |
 
 </details>
 
