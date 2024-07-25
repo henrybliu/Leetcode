@@ -52,6 +52,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 1701 | Medium | [Average Time Waiting](https://leetcode.com/problems/average-waiting-time/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1701.py) |
 | 1636 | Easy | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1636.py) |
 | 2191 | Medium | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2191.py) |
+| 912 | Medium | [Sort an Array](https://leetcode.com/problems/sort-an-array/?envType=daily-question&envId=2024-07-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/912.py) |
 
 </details>
 
