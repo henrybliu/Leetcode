@@ -276,6 +276,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 1306 | Medium | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1306.py) |
 | 787 | Medium | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/787.py) |
 | 73 | Medium | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/73.py) |
+| 1334 | Medium | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1334.py) |
+| 2976 | Medium | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2976.py) |
 </details>
 
 ---
