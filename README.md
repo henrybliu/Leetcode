@@ -111,6 +111,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  232 | Easy | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/232.py)|
 |  907 | Medium | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/907.py)|
 |  1190 | Medium | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1190.py)|
+|  1653 | Medium | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1653.py)|
 </details>
 
 
