@@ -53,6 +53,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 1636 | Easy | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1636.py) |
 | 2191 | Medium | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2191.py) |
 | 912 | Medium | [Sort an Array](https://leetcode.com/problems/sort-an-array/?envType=daily-question&envId=2024-07-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/912.py) |
+| 885 | Medium | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/885.py) |
+
 
 </details>
 
@@ -90,6 +92,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  713 | Medium | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/713.py)|
 |  2405 | Medium | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2405.py)|
 |  1438 | Medium | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1438.py)|
+|  2134 | Medium | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2134.py)|
 </details>
 
 ---
@@ -336,6 +339,7 @@ To be added
 | 1605 | Medium | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1605.py) |
 | 1717 | Medium | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1717.py) |
 | 1509 | Medium | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1509.py) |
+| 3016 | Medium | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/3016.py) |
 </details>
 
 ---

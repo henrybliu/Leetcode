@@ -5,7 +5,9 @@ import heapq
 
 class Solution:
     """
-    Use Dijkstra's to find the cheapest path to create each letter. When runnning Dijkstra's we can also keep track of the cost between letter pairs.
+    Use Dijkstra's to find the cheapest path to create each letter. When
+    runnning Dijkstra's we can also keep track of the cost between letter
+    pairs.
     """
 
     def minimumCost(
