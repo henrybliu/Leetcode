@@ -54,6 +54,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 2191 | Medium | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2191.py) |
 | 912 | Medium | [Sort an Array](https://leetcode.com/problems/sort-an-array/?envType=daily-question&envId=2024-07-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/912.py) |
 | 885 | Medium | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/885.py) |
+| 840 | Medium | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/840.py) |
 
 
 </details>
