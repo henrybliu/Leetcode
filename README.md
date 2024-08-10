@@ -289,7 +289,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 
 <details>
 <summary> Advanced Graphs </summary>
-To be added
+
+| 959 | Medium | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/959.py) |
 </details>
 
 ---
