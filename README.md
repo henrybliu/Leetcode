@@ -291,6 +291,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 <summary> Advanced Graphs </summary>
 
 | 959 | Medium | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/959.py) |
+| 1568 | Hard | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1568.py) |
 </details>
 
 ---
