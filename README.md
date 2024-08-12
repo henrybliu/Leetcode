@@ -116,6 +116,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  907 | Medium | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/907.py)|
 |  1190 | Medium | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1190.py)|
 |  1653 | Medium | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1653.py)|
+|  2420 | Medium | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2420.py)|
 </details>
 
 
