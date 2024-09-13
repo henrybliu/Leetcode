@@ -235,6 +235,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 295 | Medium | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/295.py) |
 | 621 | Medium | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/621.py) |
 | 778 | Hard | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/778.py) |
+| 1851 | Hard | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1851.py) |
 
 </details>
 
@@ -284,6 +285,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 73 | Medium | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/73.py) |
 | 1334 | Medium | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1334.py) |
 | 2976 | Medium | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2976.py) |
+| 1514 | Medium | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1514.py) |
 </details>
 
 ---
@@ -324,6 +326,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 931 | Medium | [Minimum Falling Path Sum]](https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/931.py) |
 | 1143 | Medium | [Longest Common Subsequence]](https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1143.py) |
 | 576 | Medium | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/576.py) |
+| 139 | Medium | [Word Break](https://leetcode.com/problems/word-break/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/139.py) |
 </details>
 
 ---
@@ -373,6 +376,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 12 | Medium | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/12.py) |
 | 223 | Medium | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/223.py) |
 | 2582 | Easy | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2582.py) |
+| 224 | Hard | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/224.py) |
 </details>
 
 ---
@@ -419,6 +423,7 @@ To be added
 | 1291 | Medium | [Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2024-02-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1291.py) |
 | 647 | Medium | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/647.py) |
 | 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
+| 877 | Medium | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/877.py) |
 
 </details>
 
