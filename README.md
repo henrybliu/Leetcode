@@ -55,8 +55,8 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 912 | Medium | [Sort an Array](https://leetcode.com/problems/sort-an-array/?envType=daily-question&envId=2024-07-25) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/912.py) |
 | 885 | Medium | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/885.py) |
 | 840 | Medium | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/840.py) |
-
-
+| 68 | Hard | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/68.py) |
+| 1711 | Medium | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1711.py) |
 </details>
 
 ---
@@ -165,6 +165,9 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  1171 | Medium | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1171.py)|
 |  2181 | Medium | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2181.py)|
 |  2058 | Medium | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2058.py)|
+|  3217 | Medium | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/?envType=daily-question&envId=2024-09-06) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/3217.py)|
+|  725 | Medium | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/?envType=daily-question&envId=2024-09-08) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/725.py)|
+|  2807 | Medium | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/?envType=daily-question&envId=2024-09-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2807.py)|
 </details>
 
 ---
@@ -203,6 +206,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 1110 | Medium | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1110.py) |
 | 2096 | Medium | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2096.py) |
 | 2196 | Medium | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2196.py) |
+|  1367 | Medium | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/?envType=daily-question&envId=2024-09-07) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1367.py)|
 </details>
 
 
@@ -377,13 +381,19 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 223 | Medium | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/223.py) |
 | 2582 | Easy | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2582.py) |
 | 224 | Hard | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/224.py) |
+| 539 | Medium | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/?envType=daily-question&envId=2024-09-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/539.py) |
+| 179 | Medium | [Largest Number](https://leetcode.com/problems/largest-number/description/?envType=daily-question&envId=2024-09-18) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/179.py) |
+| 2326 | Medium | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/?envType=daily-question&envId=2024-09-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2326.py) |
 </details>
 
 ---
 
 <details>
 <summary> Bit Manipulation </summary>
-To be added
+| # | Difficulty | Problem | My Solution |
+| :---: | :---: | :----: | :---: |
+
+| 1140 | Medium | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/?envType=daily-question&envId=2024-09-15) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1140.py) |
 </details>
 
 ---
@@ -424,6 +434,7 @@ To be added
 | 647 | Medium | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/647.py) |
 | 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
 | 877 | Medium | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/877.py) |
+| 1140 | Medium | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1140.py) |
 
 </details>
 
