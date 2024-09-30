@@ -57,6 +57,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 840 | Medium | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/840.py) |
 | 68 | Hard | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/68.py) |
 | 1711 | Medium | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1711.py) |
+| 731 | Medium | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/731.py) |
 </details>
 
 ---
@@ -117,6 +118,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 |  1190 | Medium | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1190.py)|
 |  1653 | Medium | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1653.py)|
 |  2420 | Medium | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2420.py)|
+|  1381 | Medium | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/?envType=daily-question&envId=2024-09-30) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1381.py)|
 </details>
 
 
@@ -139,6 +141,7 @@ To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
 | 162 | Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/find-peak-element/description/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/162.py) |
 | 4 | Hard | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/4.py) |
 | 2485 | Easy | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/2485.py) |
+| 1894 | Medium | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/1894.py) |
 
 </details>
 
